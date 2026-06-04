@@ -9,5 +9,8 @@ wheels/
 # Virtual environments
 .venv
 
+# Dependency files
 *.lock
 
+#database files
+*.db
